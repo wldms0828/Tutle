@@ -1,0 +1,22 @@
+package serviceImpl;
+import domain.*;
+import service.BuyService;
+
+public class BuyServiceImpl implements BuyService {
+	BuyerBean buyer = new BuyerBean();
+
+	@Override
+	public void buy(ProductBean product) {
+		buyer.setMoney(buyer.getMoney() - product.getPrice());
+	}
+
+	@Override
+	public String buyResult() {
+		String res = String.valueOf(buyer.getMoney());
+		buyer.getMoney();
+		return res;
+	}
+
+
+
+}

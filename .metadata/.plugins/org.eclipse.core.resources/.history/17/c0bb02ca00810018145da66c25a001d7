@@ -1,0 +1,17 @@
+package serviceImpl;
+import dao.BuyDAOImpl;
+import domain.*;
+import service.BuyService;
+
+public class BuyServiceImpl implements BuyService {
+	
+	public static BuyService instance = new BuyServiceImpl();
+	
+	public static BuyService getInstance() {
+		return instance;
+	}
+	private BuyServiceImpl() {}
+
+
+
+}

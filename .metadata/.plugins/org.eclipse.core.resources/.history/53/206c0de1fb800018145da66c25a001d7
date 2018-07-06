@@ -1,0 +1,17 @@
+package serviceImpl;
+import domain.PointBean;
+import java.util.List;
+import service.ShapeService;
+import java.util.ArrayList;
+public class ShapeServiceImpl implements ShapeService{
+	List<PointBean> point ;
+	public ShapeServiceImpl() {
+		point = new ArrayList<>();
+	}
+	@Override
+	public List<PointBean> pointList() {
+		
+		return point;
+	}
+	
+}

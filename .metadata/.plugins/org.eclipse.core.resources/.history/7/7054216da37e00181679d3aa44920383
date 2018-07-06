@@ -1,0 +1,7 @@
+package serviceImpl;
+import domain.PointBean;
+import service.ShapeService;
+public class ShapeServiceImpl implements ShapeService{
+	PointBean[] point = new PointBean[2];
+	public s
+}

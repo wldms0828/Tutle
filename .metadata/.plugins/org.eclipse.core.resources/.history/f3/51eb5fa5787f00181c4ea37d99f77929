@@ -1,0 +1,9 @@
+package service;
+
+public interface TvService {
+	public void powerOn();
+	public void powerOff();
+	public String channelUp(String c);
+	public String channelDown(String d);
+	public String text(String t);
+}

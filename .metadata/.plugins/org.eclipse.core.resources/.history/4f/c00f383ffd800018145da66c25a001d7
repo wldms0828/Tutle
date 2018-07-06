@@ -1,0 +1,23 @@
+package dao;
+
+import java.util.List;
+
+import domain.PointBean;
+
+public class PaintingDAOImpl implements ShapeDAO{
+	public static ShapeDAO instance = new PaintingDAOImpl();
+	public static ShapeDAO getInstance() {
+		return instance;
+	}
+	private PaintingDAOImpl() {}
+
+	@Override
+	public List<PointBean> list() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	
+
+}
+

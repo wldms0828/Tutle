@@ -1,0 +1,11 @@
+1530608476407	Rename package 'doman'
+1530608493813	Rename package 'comntroller'
+1530608653208	Rename type 'PaintingService'
+1530608670308	Rename type 'PaintingBean'
+1530608705396	Rename type 'PaintingServiceImpl'
+1530608713396	Rename type 'DrawShapeBean'
+1530609931363	Rename compilation unit 'shapeServiceImpl.java'
+1530868013195	Delete element
+1530868015004	Delete element
+1530868575498	Rename type 'PaintingDAO'
+1530868581068	Rename type 'PaintingDAOImpl'

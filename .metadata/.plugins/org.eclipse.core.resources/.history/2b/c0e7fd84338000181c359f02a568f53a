@@ -1,0 +1,10 @@
+package domain;
+
+public class TvBean extends ProductBean {
+
+	@Override
+	public String toString() {
+		return "TvBean [price=" + price + ", bonusPoint=" + bonusPoint + "]";
+	}
+
+}

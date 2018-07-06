@@ -1,0 +1,6 @@
+package serviceImpl;
+import domain.UnitBean;
+import service.*;
+public class StarcraftServiceImpl implements StarcraftService{
+	UnitBean[] unit = new UnitBean[4];
+}

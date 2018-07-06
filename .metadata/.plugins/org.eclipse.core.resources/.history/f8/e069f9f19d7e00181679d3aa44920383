@@ -1,0 +1,13 @@
+package serviceImpl;
+import java.awt.List;
+import domain.UnitBean;
+import service.*;
+public class StarcraftServiceImpl implements StarcraftService{
+	list<UnitBean> unit ;
+	public StarcraftServiceImpl() {
+		unit = new arrayList<>[4];
+	}
+	public UnitBean[] listUnit() {
+		return unit;
+	}
+}

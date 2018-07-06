@@ -1,0 +1,21 @@
+package dao;
+
+import java.util.List;
+
+import domain.PointBean;
+
+public class PaintingDAOImpl implements PaintingDAO{
+
+	@Override
+	public void ShapeServiceImpl() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<PointBean> pointList() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

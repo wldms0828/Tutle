@@ -1,0 +1,18 @@
+package dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import domain.PointBean;
+
+public interface PaintingDAO {
+	List<PointBean> point ;
+	public ShapeServiceImpl() {
+		point = new ArrayList<>();
+	}
+	@Override
+	public List<PointBean> pointList() {
+		
+		return point;
+	}
+}

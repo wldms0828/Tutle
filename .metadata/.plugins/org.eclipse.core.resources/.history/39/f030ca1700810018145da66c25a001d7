@@ -1,0 +1,25 @@
+package dao;
+
+import domain.ProductBean;
+
+public class BuyDAOImpl implements BuyDAO{
+	public static BuyDAO instance = new BuyDAOImpl();
+
+	public static BuyDAO getInstance() {
+		return instance;
+	}
+	private BuyDAOImpl() {}
+
+	@Override
+	public void buy(ProductBean product) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public String buyResult() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

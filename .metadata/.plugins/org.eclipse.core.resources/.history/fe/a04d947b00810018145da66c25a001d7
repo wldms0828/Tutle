@@ -1,0 +1,29 @@
+package serviceImpl;
+import dao.BuyDAOImpl;
+import domain.*;
+import service.BuyService;
+
+public class BuyServiceImpl implements BuyService {
+	
+	public static BuyService instance = new BuyServiceImpl();
+	
+	public static BuyService getInstance() {
+		return instance;
+	}
+	private BuyServiceImpl() {}
+
+	@Overrid
+	public void buy(ProductBean product) {
+		BuyDAOImpl.getInstance().findBuyer().getMoney()-product.getPrice()
+	}
+
+	@Override
+	public String buyResult() {
+		String res = String.valueOf(buyer.getMoney());
+		buyer.getMoney();
+		return res;
+	}
+
+
+
+}

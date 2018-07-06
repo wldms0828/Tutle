@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="service.cardService"/>
+<fullyQualifiedTypeName name="service.TestService"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="serviceImpl.CaServiceImpl"/>
+<fullyQualifiedTypeName name="domain.CardBean"/>
+<fullyQualifiedTypeName name="domain.TestBean"/>
+<fullyQualifiedTypeName name="org.omg.Messaging.SyncScopeHelper"/>
+<fullyQualifiedTypeName name="domain.AirUnitBean"/>
+<fullyQualifiedTypeName name="serviceImpl.StarcraftServiceImpl"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="service.BuyService"/>
+<fullyQualifiedTypeName name="domain.TvBean"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="serviceImpl.CardServiceImpl"/>
+<fullyQualifiedTypeName name="serviceImpl.ShapeServiceImpl"/>
+<fullyQualifiedTypeName name="dao.PaintingDAOImpl"/>
+<fullyQualifiedTypeName name="dao.ShapeDAOImpl"/>
+<fullyQualifiedTypeName name="dao.StarcraftDAO"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="domain.UnitBean"/>
+<fullyQualifiedTypeName name="dao.StarcraftDAOImpl"/>
+<fullyQualifiedTypeName name="dao.BuyDAOImpl"/>
+</qualifiedTypeNameHistroy>

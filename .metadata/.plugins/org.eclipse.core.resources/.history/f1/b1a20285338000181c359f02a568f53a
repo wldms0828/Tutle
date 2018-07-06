@@ -1,0 +1,10 @@
+package domain;
+
+public class ComputerBean extends ProductBean {
+
+	@Override
+	public String toString() {
+		return "ComputerBean [price=" + price + ", bonusPoint=" + bonusPoint + "]";
+	}
+
+}

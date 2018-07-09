@@ -1,5 +1,0 @@
-package domain;
-
-public class MarineBean extends GoundUnitBean{
-	private String gun;
-}

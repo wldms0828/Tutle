@@ -1,6 +1,0 @@
-package domain;
-
-public class UnitBean {
-	protected String hitpoint;
-	protected String hp;
-}

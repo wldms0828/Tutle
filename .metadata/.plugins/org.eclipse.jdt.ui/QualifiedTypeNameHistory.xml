@@ -11,17 +11,22 @@
 <fullyQualifiedTypeName name="domain.AirUnitBean"/>
 <fullyQualifiedTypeName name="serviceImpl.StarcraftServiceImpl"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="service.BuyService"/>
 <fullyQualifiedTypeName name="domain.TvBean"/>
-<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 <fullyQualifiedTypeName name="serviceImpl.CardServiceImpl"/>
 <fullyQualifiedTypeName name="serviceImpl.ShapeServiceImpl"/>
 <fullyQualifiedTypeName name="dao.PaintingDAOImpl"/>
 <fullyQualifiedTypeName name="dao.ShapeDAOImpl"/>
 <fullyQualifiedTypeName name="dao.StarcraftDAO"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="domain.UnitBean"/>
 <fullyQualifiedTypeName name="dao.StarcraftDAOImpl"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="dao.BuyDAOImpl"/>
+<fullyQualifiedTypeName name="serviceImpl.BuyServiceImpl"/>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
 </qualifiedTypeNameHistroy>

@@ -1,5 +1,0 @@
-package domain;
-
-public class TankBean extends GoundUnitBean{
-	private String cannon;
-}

@@ -1,6 +1,11 @@
 package dao;
 
 public class TvDAOImpl implements TvDAO {
+	public static TvDAO instance = new TvDAOImpl();
+	public static TvDAO getInstance() {
+		return instance;
+	}
+	private TvDAOImpl() {}
 
 	@Override
 	public void powerOn() {

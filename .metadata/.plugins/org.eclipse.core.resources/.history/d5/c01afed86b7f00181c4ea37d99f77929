@@ -1,8 +1,0 @@
-package service;
-
-public interface TvService {
-	public String powerOn();
-	public String PowerOff();
-	public String ChannelUp();
-	public String ChannelDown();
-}

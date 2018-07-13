@@ -33,11 +33,10 @@ public class BuyController {
 					JOptionPane.showMessageDialog(null, BuyServiceImpl.getInstance().buyResult());
 					break;
 				case "6" :
-					BuyServiceImpl.getInstance().refund(JOptionPane.showInputDialog("환불하실 품목")+","+JOptionPane.showInputDialog("환불하실 개수"));
-					
+					BuyServiceImpl.getInstance().refund(JOptionPane.showInputDialog("환불하실 품목"));
 					break;
 				case "7" :
-					JOptionPane.showMessageDialog(null,BuyServiceImpl.getInstance().checkCart());
+					JOptionPane.showMessageDialog(null,BuyServiceImpl.getInstance().checkCart(""));
 					break;
 				default : break;
 					

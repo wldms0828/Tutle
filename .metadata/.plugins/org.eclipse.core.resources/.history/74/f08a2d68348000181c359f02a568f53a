@@ -1,6 +1,0 @@
-package serviceImpl;
-import service.BuyService;
-
-public class BuyServiceImpl implements BuyService {
-
-}

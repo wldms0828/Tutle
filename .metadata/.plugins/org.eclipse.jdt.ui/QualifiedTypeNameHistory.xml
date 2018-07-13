@@ -24,9 +24,19 @@
 <fullyQualifiedTypeName name="java.util.Date"/>
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.lang.Integer"/>
-<fullyQualifiedTypeName name="dao.BuyDAOImpl"/>
 <fullyQualifiedTypeName name="serviceImpl.BuyServiceImpl"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="dao.BuyDAOImpl"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="service.MemberServiceimpl"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="controller.MemberController"/>
+<fullyQualifiedTypeName name="domain.MemberBean"/>
+<fullyQualifiedTypeName name="dao.MemberDAOImpl2"/>
+<fullyQualifiedTypeName name="service.MemberServiceImpl2"/>
+<fullyQualifiedTypeName name="dao.MemberDAOImpl"/>
 <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="service.MemberServiceImpl"/>
 </qualifiedTypeNameHistroy>

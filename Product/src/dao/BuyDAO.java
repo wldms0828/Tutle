@@ -10,6 +10,7 @@ public interface BuyDAO {
 	public void buy(ProductBean product);
 	public String buyResult();
 	public BuyerBean findBuyer(); 
-	public String checkCart();
+	public int checkCart();
 	public void refund();
+	public void removeProduct(String check);
 }	

@@ -7,7 +7,8 @@ public interface BuyService {
 	public void buy(ProductBean product);
 	public String buyResult();
 	public List<ProductBean> buyList();
-	public String checkCart();
+	public List<ProductBean> checkCart(String check);
 	public void refund(String re);
+
 
 }

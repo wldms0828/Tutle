@@ -42,13 +42,17 @@ public class BuyDAOImpl implements BuyDAO{
 		return list;
 	}
 	@Override
-	public String checkCart() {
-		// TODO Auto-generated method stub
-		return null;
+	public int checkCart() {
+		return list.size();
 	}
 	@Override
 	public void refund() {
 		// TODO Auto-generated method stub
+		
+	}
+	@Override
+	public void removeProduct(String check) {
+		
 		
 	}
 
